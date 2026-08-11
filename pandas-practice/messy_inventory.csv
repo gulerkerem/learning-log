@@ -1,0 +1,13 @@
+Item Name,Price,In Stock,Category
+ Laptop ,1200,Yes,Electronics
+Mouse,25,yes,Electronics
+Keyboard,,YES,Electronics
+Laptop ,1200,Yes,Electronics
+Monitor,300,No,Electronics
+Desk,150,no,Furniture
+Chair,,Yes,Furniture
+Chair,80,yes,Furniture
+ Lamp,45,No,Furniture
+Notebook,5,Yes,Stationery
+Pen,2,YES,Stationery
+Pen,2,YES,Stationery
